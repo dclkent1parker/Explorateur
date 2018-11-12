@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400"
+   height="850"
+   viewBox="0 0 105.83333 224.89582"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="zoningmobile.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="296.47176"
+     inkscape:cy="426.63626"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-72.104181)">
+    <rect
+       style="fill:#000000;stroke-width:0.26244077"
+       id="rect3734"
+       width="105.83334"
+       height="181.80653"
+       x="0.37797618"
+       y="115.19347" />
+    <rect
+       id="rect3721"
+       width="91.470238"
+       height="14.363096"
+       x="7.1815472"
+       y="78.907753"
+       style="stroke-width:0.19925851" />
+    <rect
+       id="rect3723"
+       width="91.470238"
+       height="180.29463"
+       x="7.1815472"
+       y="101.58632"
+       style="fill:#808080;stroke-width:1.01010549" />
+    <rect
+       style="fill:#000000;stroke-width:0.26458332"
+       id="rect3730"
+       width="80.886909"
+       height="14.741072"
+       x="12.851191"
+       y="107.63394" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.25791767"
+       id="rect3732"
+       width="80.886909"
+       height="144.38692"
+       x="12.851191"
+       y="129.93454" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="37.419643"
+       y="89.869064"
+       id="text3842"><tspan
+         sodipodi:role="line"
+         id="tspan3840"
+         x="37.419643"
+         y="89.869064"
+         style="fill:#ffffff;stroke-width:0.26458332">TITRE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="20.830402"
+       y="117.16122"
+       id="text3842-3"><tspan
+         sodipodi:role="line"
+         id="tspan3840-5"
+         x="20.830402"
+         y="117.16122"
+         style="font-size:6.3499999px;fill:#ffffff;stroke-width:0.26458332">CHEMIN DU DOSSIER</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="53.536411"
+       y="180.96132"
+       id="text3864"><tspan
+         sodipodi:role="line"
+         id="tspan3862"
+         x="55.221062"
+         y="180.96132"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332">CONTENU </tspan><tspan
+         sodipodi:role="line"
+         x="55.221062"
+         y="194.19049"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan3866">DU </tspan><tspan
+         sodipodi:role="line"
+         x="53.536411"
+         y="207.41965"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan3868">DOSSIER</tspan></text>
+  </g>
+</svg>
