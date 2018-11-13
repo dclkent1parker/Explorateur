@@ -13,13 +13,14 @@
 
 </head>
 <body>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>
     <header>
         <div id="title"><h1>DCL Explorer</h1></div>
     </header>
     <main>
         <div id="container">
             <?php 
-                $dossier= 'phpExplorer/Images';
+                $dossier= 'phpExplorer';
                 $iterator= new DirectoryIterator($dossier);
              ?>
             <div id="boutons">  
@@ -32,10 +33,11 @@
             </div>
             <div id="contenu">
                 <ul>
-                    <?php include ('display.php'); ?>
+                    <?php include('display.php'); ?>
                 </ul>
             </div>
         </div>
     </main>
+    <script src="refresh.js"></script>
 </body>
 </html>
