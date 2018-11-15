@@ -21,7 +21,9 @@
         <div id="container">
             <?php 
                 $dossier= 'phpExplorer';
+                // On définit la variable dossier comme le nom du dossier qu'on veut ouvrir 'phpExplorer'
                 $iterator= new DirectoryIterator($dossier);
+                // La variable iterator est instanciée par la fonction 'DirectoryIterator($nomdudossier) ce qui permet d'ouvrir un dossier 
              ?>
             <div id="boutons">  
                 <i class="fas fa-minus-circle"></i> 
@@ -29,11 +31,15 @@
                 <i class="fas fa-times-circle"></i> 
             </div>
             <div id="chemin">
-                <?php include('chemin.php'); ?>
+                <?php
+                //Chemin.php nous permet d'afficher le dossier ouvert suivant comment il est instancié plus haut
+                include('chemin.php'); ?>
             </div>
             <div id="contenu">
                 <ul>
-                    <?php include('display.php'); ?>
+                    <?php 
+                    //Display.php contient toutes les infos sur les fichiers
+                    include('display.php'); ?>
                 </ul>
             </div>
         </div>
