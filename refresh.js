@@ -3,7 +3,8 @@
 function loadlink(){
     //jQuery/Ajax nous permettent d'appeler un ID directement, ici #contenu
     //on indique dans la fonction load quelle page et quel id dans cette page on veut refresh
-$('#contenu').load('index.php #contenu')
+$('ul').load('index.php ul')
+$('#chemin').load('index.php #chemin')
 }
 //On attribue une intervalle à la fonction loadlink ci-dessus
 setInterval(function(){
